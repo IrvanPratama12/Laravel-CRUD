@@ -1,0 +1,11 @@
+Dokumentation : 
+-instalasi composer
+-instalasi laravel
+-membuat project menggunakan composer
+-buat database diphpmyadmin
+-seting database di .env
+-membuat model database dengan nama posts
+-melakukan migration db dari laravel ke phpmyadmin "php artisan migrate"
+-membuat view dan controller
+-seting routes pada web.php
+-jalankan dilocalhost.
